@@ -1,0 +1,2 @@
+defmodule NifPerf do
+end
