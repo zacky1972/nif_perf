@@ -25,3 +25,7 @@ nif_perf-*.tar
 # Ignore obj and priv
 /obj/
 /priv/
+
+# Ignore bench/snapshots
+bench/snapshots
+
